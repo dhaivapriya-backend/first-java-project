@@ -7,8 +7,9 @@ public class Addition {
 		
 		int a=3;
 		int b=4;
-		int c=a+b;
-		System.out.println("c="+c);
+		int c=5;
+		int d=a+b+c;
+		System.out.println("d="+d);
 
 	}
 
